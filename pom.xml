@@ -11,7 +11,7 @@
   <description>Just a pom that makes it easy to build both projects at the same time.</description>
 
   <modules>
-    <module>testpom</module>
+    <module>my-app1</module>
   </modules>
 
   <prerequisites>
